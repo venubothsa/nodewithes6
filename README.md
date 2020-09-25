@@ -26,31 +26,31 @@ List of images
    ```
 Create and run container   
   ```sh
-Docker run ‘image_name’
+ docker run ‘image_name’
   ```
 Create and run contaner on specific port  
  ```sh
-Docker run –p 9090:8080 –a ‘image_name’
+ docker run –p 9090:8080 –a ‘image_name’
   ```
 List of containers  
  ```sh
-Docker ps –a
+ docker ps –a
   ```
 Stop container  
  ```sh
-Docker stop ‘container id’
+ docker stop ‘container id’
   ```
 Remove container  
  ```sh
-Docker rm ‘container id’
+ docker rm ‘container id’
   ```
 Remove image file  
  ```sh
-Docker image rm ‘image_id’
+ docker image rm ‘image_id’
   ```
 Navigate to container terminal 
  ```sh
-docker exec -it  ‘container_id’ /bin/bash
+ docker exec -it  ‘container_id’ /bin/bash
   ```
 
 # ECMA Script
