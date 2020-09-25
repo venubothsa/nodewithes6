@@ -56,3 +56,5 @@ Navigate to container terminal
 # ECMA Script
 
 European Computer Manufacturers Association (ECMAScript) or (ES) is a standard for scripting languages like JavaScript, ActionScript and JScript. It was initially created to standardize JavaScript, which is the most popular implementation of ECMAScript.
+
+![alt text](https://github.com/venubothsa/nodewithes6/blob/master/es6/Es6.PNG?raw=true)
