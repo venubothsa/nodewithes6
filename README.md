@@ -12,6 +12,22 @@
 
  **Node.js = Runtime Environment + JavaScript Library**
  
+ # Node vs NPM vs Npx
+ Node: It's a command to allows you to execute single java script file. 
+ NPM(Node Package Manager): 
+ i) It is an online repository for the publishing of open-source Node.js projects.
+ ii) It is a CLI tool that allows you install those packages and manage their versions and dependencies.
+ 
+ NPX(Node Package Execute):
+ It is a npm package runner. The typical use is to download and run a package temporarily or for trials.
+ 
+  ```sh
+ Ex: npx create-react-app
+  ```
+ create-react-app is an npm package that is expected to be run only once in a project's lifecycle. Hence, it is preferred to use npx to install and run it in a single step.
+ 
+ 
+ 
  # Docker
  
  Docker allows you to package an application with its environment and all of its dependencies into a "box", called a container. Usually, a container consists of an application running in a stripped-to-basics version of a Linux operating system. An image is the blueprint for a container, a container is a running instance of an image.
