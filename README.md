@@ -16,8 +16,10 @@
  **Node:** It's a command to allows you to execute single java script file. 
  
  **NPM(Node Package Manager):** 
- i) It is an online repository for the publishing of open-source Node.js projects.
- ii) It is a CLI tool that allows you install those packages and manage their versions and dependencies.
+ 
+ - It is an online repository for the publishing of open-source Node.js projects.
+ 
+ - It is a CLI tool that allows you install those packages and manage their versions and dependencies.
  
  **NPX(Node Package Execute):**
  It is a npm package runner. The typical use is to download and run a package temporarily or for trials.
