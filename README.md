@@ -12,7 +12,7 @@
 
  **Node.js = Runtime Environment + JavaScript Library**
  
- # Node vs NPM vs Npx
+ # Node vs NPM vs NPX
  **Node:** It's a command to allows you to execute single java script file. 
  
  **NPM(Node Package Manager):** 
