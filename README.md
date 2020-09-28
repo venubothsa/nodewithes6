@@ -49,8 +49,10 @@ Create and run container
   ```
 Create and run contaner on specific port  
  ```sh
- docker run –p 9090:8080 –a ‘image_name’
+ docker run –p 9090:8080 –d ‘image_name’
   ```
+ Running your image with -d runs the container in detached mode, leaving the container running in the background. The -p flag redirects a public port to a private port inside the container.
+ 
 List of containers  
  ```sh
  docker ps –a
