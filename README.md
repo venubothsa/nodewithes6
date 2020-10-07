@@ -35,6 +35,10 @@
  
  Docker allows you to package an application with its environment and all of its dependencies into a "box", called a container. Usually, a container consists of an application running in a stripped-to-basics version of a Linux operating system. An image is the blueprint for a container, a container is a running instance of an image.
  
+ Docker is possibly the most popular solution to have all your services run in a container. Containers allow us to run and develop an application in the same environment, regardless of what machine you’re on.
+ 
+Containers are a standardized unit of software that allows developers to isolate their app from its environment, solving the “it works on my machine” headache.
+ 
 Create the image
  ```sh
  docker build –t ‘image_name’ . 
