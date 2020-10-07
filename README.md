@@ -33,11 +33,12 @@
  
  # Docker
  
- Docker allows you to package an application with its environment and all of its dependencies into a "box", called a container. Usually, a container consists of an application running in a stripped-to-basics version of a Linux operating system. An image is the blueprint for a container, a container is a running instance of an image.
- 
  Docker is possibly the most popular solution to have all your services run in a container. Containers allow us to run and develop an application in the same environment, regardless of what machine you’re on.
  
-Containers are a standardized unit of software that allows developers to isolate their app from its environment, solving the “it works on my machine” headache.
+ Containers are a standardized unit of software that allows developers to isolate their app from its environment, solving the “it works on my machine” headache.
+
+ Docker allows you to package an application with its environment and all of its dependencies into a "box", called a container. Usually, a container consists of an application running in a stripped-to-basics version of a Linux operating system. An image is the blueprint for a container, a container is a running instance of an image.
+ 
  
 Create the image
  ```sh
@@ -83,3 +84,10 @@ Navigate to container terminal
 European Computer Manufacturers Association (ECMAScript) or (ES) is a standard for scripting languages like JavaScript, ActionScript and JScript. It was initially created to standardize JavaScript, which is the most popular implementation of ECMAScript.
 
 ![alt text](https://github.com/venubothsa/nodewithes6/blob/master/es6/Es6.PNG?raw=true)
+
+
+# Referances
+[Docker with Node](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+[Docker with React](https://medium.com/better-programming/heres-how-you-can-use-docker-with-create-react-app-3ee3a972b04e)
+
+
