@@ -86,7 +86,7 @@ European Computer Manufacturers Association (ECMAScript) or (ES) is a standard f
 ![alt text](https://github.com/venubothsa/nodewithes6/blob/master/es6/Es6.PNG?raw=true)
 
 
-# Referances
+# References
 [Docker with Node](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
 
 [Docker with React](https://medium.com/better-programming/heres-how-you-can-use-docker-with-create-react-app-3ee3a972b04e)
