@@ -26,3 +26,6 @@ function GetTableFromExcel() {
 
 
 }
+/* output
+{ v: 'sdfdsf', t: 's', w: 'sdfdsf' }
+{ v: 'fsdfsd', t: 's', w: 'fsdfsd' } */
